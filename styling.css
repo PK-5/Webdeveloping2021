@@ -1,0 +1,49 @@
+.topnav{overflow: hidden; background-color: cornflowerblue;}
+.topnav a{
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:skyblue;
+  font-size: 17px;
+  
+}
+.topnav a:hover{
+  background-color: rgb(229, 236, 236);
+  color:deepskyblue;
+}
+
+
+h1 {
+
+   color: blanchedalmond;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+
+    color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+P {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    background-color: cadetblue;
+  
+    padding-left: 2cm;
+}
+
+.Header{ 
+
+  background-color:cadetblue);
+
+}
+
+.Body {
+
+  background-color: cadetblue;
+
+}
